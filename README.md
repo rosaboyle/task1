@@ -1,4 +1,5 @@
-### Hands on task: Autonomous Source Code Vulnerability Analysis Using GPT-4 and Claude
+
+# Hands on task: Autonomous Source Code Vulnerability Analysis Using GPT-4 and Claude
 
 #### Objective:
 The purpose of this assignment is to familiarize you with the tools and technologies we utilize within our company for analyzing source code vulnerabilities. This hands-on experience will involve using GPT-4 and Claude to autonomously identify vulnerabilities in source code.
@@ -42,8 +43,8 @@ The purpose of this assignment is to familiarize you with the tools and technolo
 
 This assignment is designed not only to introduce you to the tools we use but also to encourage a deep understanding of their application in real-world scenarios. Good luck, and we look forward to seeing your innovative solutions.
 
-# Things you might have to learn
-1. Writing a makefile
+## Things you might have to learn
+1. Writing a Makefile and running it
 2. Understanding about buffer overflow and the functions in stdlib that are vulnerable to buffer overflow.
 3. Using docker and other command line tools
 4. OpenAI and claude API for tool use/function calling, requiring JSON format and File upload and analysis. 
